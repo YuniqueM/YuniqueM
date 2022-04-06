@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YuniqueM
+- 👋 Hi, I’m Yunique' . 
 - 👀 I’m interested in developing algorithms to help make raw data more useful. 
 - 🌱 I’m currently learning SQL, R, and Python.
 - 💞️ I’m looking to collaborate on building data systems and pipelines.
