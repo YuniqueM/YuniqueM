@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yunique' . 
 - 👀 I’m interested in developing algorithms to help make raw data more useful. 
-- 🌱 I’m currently learning SQL, R, and Python.
-- 💞️ I’m looking to collaborate on building data systems and pipelines.
+- 🌱 I’m currently learning database management in SQL.
+- 💞️ I’m looking to collaborate on manipulating data using real world data sets.
 - 📫 How to reach me ... yunique.murphy@gmail.com
 
 <!---
