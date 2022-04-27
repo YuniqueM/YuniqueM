@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yunique' . 
 - 👀 I’m interested in developing algorithms to help make raw data more useful. 
-- 🌱 I’m currently learning database management in SQL.
+- 🌱 I’m currently learning data manipulation in Python.
 - 💞️ I’m looking to collaborate on manipulating data using real world data sets.
 - 📫 How to reach me ... yunique.murphy@gmail.com
 
